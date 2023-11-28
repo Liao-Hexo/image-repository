@@ -1,4 +1,4 @@
-## Typora+PicGo+GitHub图床
+## Typora+PicGo+GitHub图床：
 
 1. GitHub新建一个仓库，用于存放图片
 
