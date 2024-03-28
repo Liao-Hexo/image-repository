@@ -12,4 +12,5 @@
 
 5. Typora中进行图像配置，Typora下载地址：https://typora.io
 
+   ![](https://raw.githubusercontent.com/Liao-Hexo/image-repository/Description/image-repository/Typora+PicGo+GitHub%E5%9B%BE%E5%BA%8A/202403281958027.png)
    ![](https://raw.githubusercontent.com/Liao-Hexo/image-repository/Description/image-repository/Typora+PicGo+GitHub%E5%9B%BE%E5%BA%8A/202401022056011.png)
