@@ -6,11 +6,11 @@
 
    ![](https://raw.githubusercontent.com/Liao-Hexo/image-repository/Description/image-repository/Typora+PicGo+GitHub%E5%9B%BE%E5%BA%8A/202401022054090.png)
 
-3. PicGo中配置GitHub图床，PicGo下载地址：https://github.com/Molunerfinn/PicGo。
+3. PicGo中配置GitHub图床，PicGo下载地址：https://github.com/Molunerfinn/PicGo
 
    ![](https://raw.githubusercontent.com/Liao-Hexo/image-repository/Description/image-repository/Typora+PicGo+GitHub%E5%9B%BE%E5%BA%8A/202401022056361.png)
 
-4. Typora中进行图像配置，Typora下载地址：https://typora.io。
+4. Typora中进行图像配置，Typora下载地址：https://typora.io
 
    ![](https://raw.githubusercontent.com/Liao-Hexo/image-repository/Description/image-repository/Typora+PicGo+GitHub%E5%9B%BE%E5%BA%8A/202403281958027.png)
    ![](https://raw.githubusercontent.com/Liao-Hexo/image-repository/Description/image-repository/Typora+PicGo+GitHub%E5%9B%BE%E5%BA%8A/202401022056011.png)
